@@ -5,7 +5,7 @@ author: Kunal Nalawade
 authorURL: https://www.freecodecamp.org/news/author/kunal-nalawade-25/
 originalURL: https://www.freecodecamp.org/news/js-interview-prep-handbook/
 translator: ""
-reviewer: ""
+reviewer: "miyaliu"
 ---
 
 / [#JavaScript][1]
