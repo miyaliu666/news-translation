@@ -5,7 +5,7 @@ author: Kris Koishigawa
 authorURL: https://www.freecodecamp.org/news/author/kris/
 originalURL: https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/
 translator: ""
-reviewer: ""
+reviewer: "miya"
 ---
 
 / [#网络工程][1]
