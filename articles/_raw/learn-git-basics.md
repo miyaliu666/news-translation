@@ -213,7 +213,7 @@ $ git commit -m 'Initial commit'
 
 `git add` adds files to the staging area indicating that you want to include them in the next commit, and then commit the changes. The `-m` flag allows you to add a descriptive message to the commit.
 
-### 2\. How to Clone an Existing Repository in Git:
+
 
 The second way to obtain a Git repository is by cloning an existing one. This is useful when you want to work on a project that already exists elsewhere (for example, a project you'd like to contribute to).
 
